@@ -4,7 +4,7 @@
 
 <img width="970" height="728" alt="5651-05" src="https://github.com/user-attachments/assets/bed72ada-2f0e-49ed-a4ec-7b5c0204dbd9" />
 
-![Uploading image.png…]()
+<img width="2568" height="1752" alt="image" src="https://github.com/user-attachments/assets/86616172-c989-4048-9f55-8b4d64790db7" />
 
 
 ## Details
