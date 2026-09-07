@@ -3,3 +3,7 @@
 
 <img width="970" height="728" alt="5651-05" src="https://github.com/user-attachments/assets/bed72ada-2f0e-49ed-a4ec-7b5c0204dbd9" />
 
+## Details
+
+https://www.tindie.com/products/tinkeringtech/scoutmakes-fm-radio-board-qwiicstemma-i2c/
+
